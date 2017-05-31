@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
+    /// <summary>
+    /// dfdfdgfdgfdhfghg fgnhg hg
+    /// </summary>
     class Person
     {
         public String Name { get; set; }

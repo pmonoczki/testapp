@@ -11,6 +11,7 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Person p = new Person() { Name = "pali" };
+            p = new Person() { Name = "pali" };
         }
     }
 }
