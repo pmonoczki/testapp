@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
-    class Program
+    class Person
     {
-        static void Main(string[] args)
-        {
-            Person p = new Person() { Name = "pali" };
-        }
+        public String Name { get; set; }
+
+        public Int32 Age { get; set; }
     }
 }
